@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #555;
+}
+
+.topo {
+  background: #f7bf00;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav h1 {
+  margin: 0;
+  color: #7d1f8d;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: lowercase;
+}
+
+.conteudo {
+  max-width: 650px;
+  margin: 60px auto 0;
+  text-align: center;
+}
+
+.texto {
+  width: 70%;
+  margin: 0 auto 25px;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+.texto p {
+  margin-bottom: 16px;
+}
+
+.imagem img {
+  width: 420px;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
